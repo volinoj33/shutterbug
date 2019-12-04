@@ -1,0 +1,95 @@
+/* Shutterbugg Bootstrap Project 12/3/19 */
+
+body {
+	background-image: linear-gradient(brown, blue);
+}
+
+.container {
+	max-width: 968px;
+}
+
+.main {
+	background-image: url("../images/intro.jpg");
+	height: 525px;
+	background-size: cover;
+	padding-top:50px;
+}
+
+.main h1{
+	font-family: 'Wallpoet', cursive;
+	font-size: 55px;
+	text-shadow: black 4px 2px 10px;
+	transition: text-shadow 2s;
+}
+
+.main h1:hover {
+	text-shadow: white 5px 5px 5px;
+}
+
+.main h2 {
+	font-family: 'Comfortaa', cursive;
+	padding-top: 5px;
+	text-align: right;
+	font-weight: bold;
+}
+
+.main h2:hover {
+	text-shadow: white 5px 5px 5px;
+}
+
+.btn {
+	font-size: 20px;
+	color: Black;
+	background-color: ivory;
+	border-radius: 35px;
+	padding: 15px;
+}
+
+.btn:hover {
+	background-color: cyan;
+}
+
+.row {
+	padding: 50px;
+	padding-left: 65px;
+}
+
+.row h1 {
+	font-family: 'Fredoka One', cursive;
+	color: ivory;
+}
+
+.row p {
+	font-size: 25px;
+	color: ivory;
+}
+
+.col-md-6 img {
+	display: block;
+	float: left;
+}
+
+#store {
+	text-align: center;
+}
+
+.footer h1 {
+	font-size:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
