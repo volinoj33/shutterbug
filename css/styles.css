@@ -1,4 +1,4 @@
-/* Shutterbugg Bootstrap Project 12/3/19 * Author: James Volino/
+/* Shutterbugg Bootstrap Project 12/3/19 * Author: James Volino*/
 
 body {
 	background-image: linear-gradient(brown, blue);
@@ -77,6 +77,9 @@ body {
 	font-size:30px;
 }
 
+.footer ul {
+	color: ivory;
+}
 
 
 
